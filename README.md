@@ -28,10 +28,10 @@ There is one pdf file in each of the project folder where more specific descript
 ## Tools used
 Mutiple tools are used in the four projects as follows.
 
-**Numpy** for numerical computation
+**Numpy** for numerical computation.
 
-**Pandas** for processing csv files and visualization
+**Pandas** for processing csv files and visualization.
 
-**Matplotlib** and **Seaborn** for better and more complicated visualization
+**Matplotlib** and **Seaborn** for better and more complicated visualization.
 
-**Sklearn** and **Tensorflow** for model building
+**Sklearn** and **Tensorflow** for model building.
